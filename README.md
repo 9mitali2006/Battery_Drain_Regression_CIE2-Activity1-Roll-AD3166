@@ -519,7 +519,8 @@ The project can be further improved by:
 **Algorithm:** Simple Linear Regression and Multiple Linear Regression
 
 **Target Variable:** Battery Drain (mAh/day)
-Submission GitHub ID: https://github.com/9mitali2006
+**GitHub Submission ID:** [complexiota](https://github.com/complexiota)
+
 
 Student Repository URL: https://github.com/9mitali2006/Battery_Drain_Regression_AD3166
 
