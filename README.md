@@ -519,3 +519,14 @@ The project can be further improved by:
 **Algorithm:** Simple Linear Regression and Multiple Linear Regression
 
 **Target Variable:** Battery Drain (mAh/day)
+Submission GitHub ID: https://github.com/9mitali2006
+
+Student Repository URL: https://github.com/9mitali2006/Battery_Drain_Regression_AD3166
+
+Project Name: Smartphone Battery Drain Prediction Using Linear Regression
+
+Repository Visibility: Public
+
+This repository contains the completed machine learning project, including the Jupyter Notebook, dataset (where redistribution is permitted), project documentation, and supporting files required for academic evaluation.
+
+The repository is maintained by the student for submission and review as part of the academic activity.
